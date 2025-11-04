@@ -1,0 +1,56 @@
+
+body {
+background-color: #FFE5B4;
+@font-face {
+    src: url(/fuentes/lato-regular.ttf)}
+
+
+    font-family: "lato";
+    margin: 0;
+  padding: 40px;
+}
+.card {
+background-color: white;
+max-width: 400px;
+margin: auto;
+padding: 20px;
+border-radius: 12px;
+box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+text-align: center;
+}
+
+img {
+width: 150px;
+height: 150px;
+border-radius: 50%;
+}
+button {
+background-color: #ffffff;
+color: white;
+border: none;
+padding: 10px 20px;
+cursor: pointer;
+margin-top: 10px;
+}
+button:hover {
+background-color: #94d2bd;
+}
+
+
+
+img {
+width: 150px;
+height: 150px;
+border-radius: 50%;
+}
+button {
+background-color: #FF78A0;
+color: white;
+border: none;
+padding: 10px 20px;
+cursor: pointer;
+margin-top: 10px;
+}
+button:hover {
+background-color: #94d2bd;
+}
